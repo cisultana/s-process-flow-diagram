@@ -1,0 +1,206 @@
+digraph G {
+graph [bgcolor=lightgrey]
+node [shape=box]
+label = "latex";
+texlbl = "\huge{$time(s) = 4.42924              \ \ \ \ T_9 = 0.3              \ \ \ \ \rho(g/cc) = 1000              \ \ \ \ {\mathrm{flow}_{max}} = 0.00186562$}";
+97 [texlbl="\huge{$^{20}\mathrm{Ne}$}"             pos="750,750!",             style=filled, fillcolor="yellow"             ]
+;
+98 [texlbl="\huge{$^{21}\mathrm{Ne}$}"             pos="825,750!",             style=filled, fillcolor="yellow"             ]
+;
+99 [texlbl="\huge{$^{22}\mathrm{Ne}$}"             pos="900,750!",             style=filled, fillcolor="yellow"             ]
+;
+122 [texlbl="\huge{$^{21}\mathrm{Na}$}"             pos="750,825!",             style=filled, fillcolor="white"             ]
+;
+123 [texlbl="\huge{$^{22}\mathrm{Na}$}"             pos="825,825!",             style=filled, fillcolor="white"             ]
+;
+124 [texlbl="\huge{$^{23}\mathrm{Na}$}"             pos="900,825!",             style=filled, fillcolor="yellow"             ]
+;
+149 [texlbl="\huge{$^{22}\mathrm{Mg}$}"             pos="750,900!",             style=filled, fillcolor="white"             ]
+;
+150 [texlbl="\huge{$^{23}\mathrm{Mg}$}"             pos="825,900!",             style=filled, fillcolor="white"             ]
+;
+151 [texlbl="\huge{$^{24}\mathrm{Mg}$}"             pos="900,900!",             style=filled, fillcolor="yellow"             ]
+;
+152 [texlbl="\huge{$^{25}\mathrm{Mg}$}"             pos="975,900!",             style=filled, fillcolor="yellow"             ]
+;
+153 [texlbl="\huge{$^{26}\mathrm{Mg}$}"             pos="1050,900!",             style=filled, fillcolor="yellow"             ]
+;
+178 [texlbl="\huge{$^{24}\mathrm{Al}$}"             pos="825,975!",             style=filled, fillcolor="white"             ]
+;
+181 [texlbl="\huge{$^{27}\mathrm{Al}$}"             pos="1050,975!",             style=filled, fillcolor="yellow"             ]
+;
+212 [texlbl="\huge{$^{28}\mathrm{Si}$}"             pos="1050,1050!",             style=filled, fillcolor="yellow"             ]
+;
+213 [texlbl="\huge{$^{29}\mathrm{Si}$}"             pos="1125,1050!",             style=filled, fillcolor="yellow"             ]
+;
+214 [texlbl="\huge{$^{30}\mathrm{Si}$}"             pos="1200,1050!",             style=filled, fillcolor="yellow"             ]
+;
+245 [texlbl="\huge{$^{29}\mathrm{P}$}"             pos="1050,1125!",             style=filled, fillcolor="white"             ]
+;
+246 [texlbl="\huge{$^{30}\mathrm{P}$}"             pos="1125,1125!",             style=filled, fillcolor="white"             ]
+;
+247 [texlbl="\huge{$^{31}\mathrm{P}$}"             pos="1200,1125!",             style=filled, fillcolor="yellow"             ]
+;
+280 [texlbl="\huge{$^{30}\mathrm{S}$}"             pos="1050,1200!",             style=filled, fillcolor="white"             ]
+;
+281 [texlbl="\huge{$^{31}\mathrm{S}$}"             pos="1125,1200!",             style=filled, fillcolor="white"             ]
+;
+282 [texlbl="\huge{$^{32}\mathrm{S}$}"             pos="1200,1200!",             style=filled, fillcolor="yellow"             ]
+;
+283 [texlbl="\huge{$^{33}\mathrm{S}$}"             pos="1275,1200!",             style=filled, fillcolor="yellow"             ]
+;
+284 [texlbl="\huge{$^{34}\mathrm{S}$}"             pos="1350,1200!",             style=filled, fillcolor="yellow"             ]
+;
+286 [texlbl="\huge{$^{36}\mathrm{S}$}"             pos="1500,1200!",             style=filled, fillcolor="yellow"             ]
+;
+321 [texlbl="\huge{$^{35}\mathrm{Cl}$}"             pos="1350,1275!",             style=filled, fillcolor="yellow"             ]
+;
+323 [texlbl="\huge{$^{37}\mathrm{Cl}$}"             pos="1500,1275!",             style=filled, fillcolor="yellow"             ]
+;
+359 [texlbl="\huge{$^{36}\mathrm{Ar}$}"             pos="1350,1350!",             style=filled, fillcolor="yellow"             ]
+;
+360 [texlbl="\huge{$^{37}\mathrm{Ar}$}"             pos="1425,1350!",             style=filled, fillcolor="white"             ]
+;
+361 [texlbl="\huge{$^{38}\mathrm{Ar}$}"             pos="1500,1350!",             style=filled, fillcolor="yellow"             ]
+;
+363 [texlbl="\huge{$^{40}\mathrm{Ar}$}"             pos="1650,1350!",             style=filled, fillcolor="yellow"             ]
+;
+399 [texlbl="\huge{$^{37}\mathrm{K}$}"             pos="1350,1425!",             style=filled, fillcolor="white"             ]
+;
+400 [texlbl="\huge{$^{38}\mathrm{K}$}"             pos="1425,1425!",             style=filled, fillcolor="white"             ]
+;
+401 [texlbl="\huge{$^{39}\mathrm{K}$}"             pos="1500,1425!",             style=filled, fillcolor="yellow"             ]
+;
+402 [texlbl="\huge{$^{40}\mathrm{K}$}"             pos="1575,1425!",             style=filled, fillcolor="yellow"             ]
+;
+403 [texlbl="\huge{$^{41}\mathrm{K}$}"             pos="1650,1425!",             style=filled, fillcolor="yellow"             ]
+;
+441 [texlbl="\huge{$^{38}\mathrm{Ca}$}"             pos="1350,1500!",             style=filled, fillcolor="white"             ]
+;
+442 [texlbl="\huge{$^{39}\mathrm{Ca}$}"             pos="1425,1500!",             style=filled, fillcolor="white"             ]
+;
+443 [texlbl="\huge{$^{40}\mathrm{Ca}$}"             pos="1500,1500!",             style=filled, fillcolor="yellow"             ]
+;
+445 [texlbl="\huge{$^{42}\mathrm{Ca}$}"             pos="1650,1500!",             style=filled, fillcolor="yellow"             ]
+;
+446 [texlbl="\huge{$^{43}\mathrm{Ca}$}"             pos="1725,1500!",             style=filled, fillcolor="yellow"             ]
+;
+447 [texlbl="\huge{$^{44}\mathrm{Ca}$}"             pos="1800,1500!",             style=filled, fillcolor="yellow"             ]
+;
+449 [texlbl="\huge{$^{46}\mathrm{Ca}$}"             pos="1950,1500!",             style=filled, fillcolor="yellow"             ]
+;
+451 [texlbl="\huge{$^{48}\mathrm{Ca}$}"             pos="2100,1500!",             style=filled, fillcolor="yellow"             ]
+;
+490 [texlbl="\huge{$^{45}\mathrm{Sc}$}"             pos="1800,1575!",             style=filled, fillcolor="yellow"             ]
+;
+534 [texlbl="\huge{$^{46}\mathrm{Ti}$}"             pos="1800,1650!",             style=filled, fillcolor="yellow"             ]
+;
+535 [texlbl="\huge{$^{47}\mathrm{Ti}$}"             pos="1875,1650!",             style=filled, fillcolor="yellow"             ]
+;
+536 [texlbl="\huge{$^{48}\mathrm{Ti}$}"             pos="1950,1650!",             style=filled, fillcolor="yellow"             ]
+;
+537 [texlbl="\huge{$^{49}\mathrm{Ti}$}"             pos="2025,1650!",             style=filled, fillcolor="yellow"             ]
+;
+538 [texlbl="\huge{$^{50}\mathrm{Ti}$}"             pos="2100,1650!",             style=filled, fillcolor="yellow"             ]
+;
+583 [texlbl="\huge{$^{50}\mathrm{V}$}"             pos="2025,1725!",             style=filled, fillcolor="yellow"             ]
+;
+584 [texlbl="\huge{$^{51}\mathrm{V}$}"             pos="2100,1725!",             style=filled, fillcolor="yellow"             ]
+;
+629 [texlbl="\huge{$^{50}\mathrm{Cr}$}"             pos="1950,1800!",             style=filled, fillcolor="yellow"             ]
+;
+631 [texlbl="\huge{$^{52}\mathrm{Cr}$}"             pos="2100,1800!",             style=filled, fillcolor="yellow"             ]
+;
+632 [texlbl="\huge{$^{53}\mathrm{Cr}$}"             pos="2175,1800!",             style=filled, fillcolor="yellow"             ]
+;
+633 [texlbl="\huge{$^{54}\mathrm{Cr}$}"             pos="2250,1800!",             style=filled, fillcolor="yellow"             ]
+;
+681 [texlbl="\huge{$^{55}\mathrm{Mn}$}"             pos="2250,1875!",             style=filled, fillcolor="yellow"             ]
+;
+728 [texlbl="\huge{$^{54}\mathrm{Fe}$}"             pos="2100,1950!",             style=filled, fillcolor="yellow"             ]
+;
+730 [texlbl="\huge{$^{56}\mathrm{Fe}$}"             pos="2250,1950!",             style=filled, fillcolor="yellow"             ]
+;
+731 [texlbl="\huge{$^{57}\mathrm{Fe}$}"             pos="2325,1950!",             style=filled, fillcolor="yellow"             ]
+;
+732 [texlbl="\huge{$^{58}\mathrm{Fe}$}"             pos="2400,1950!",             style=filled, fillcolor="yellow"             ]
+;
+782 [texlbl="\huge{$^{59}\mathrm{Co}$}"             pos="2400,2025!",             style=filled, fillcolor="yellow"             ]
+;
+832 [texlbl="\huge{$^{58}\mathrm{Ni}$}"             pos="2250,2100!",             style=filled, fillcolor="yellow"             ]
+;
+834 [texlbl="\huge{$^{60}\mathrm{Ni}$}"             pos="2400,2100!",             style=filled, fillcolor="yellow"             ]
+;
+835 [texlbl="\huge{$^{61}\mathrm{Ni}$}"             pos="2475,2100!",             style=filled, fillcolor="yellow"             ]
+;
+836 [texlbl="\huge{$^{62}\mathrm{Ni}$}"             pos="2550,2100!",             style=filled, fillcolor="yellow"             ]
+;
+838 [texlbl="\huge{$^{64}\mathrm{Ni}$}"             pos="2700,2100!",             style=filled, fillcolor="yellow"             ]
+;
+889 [texlbl="\huge{$^{63}\mathrm{Cu}$}"             pos="2550,2175!",             style=filled, fillcolor="yellow"             ]
+;
+891 [texlbl="\huge{$^{65}\mathrm{Cu}$}"             pos="2700,2175!",             style=filled, fillcolor="yellow"             ]
+;
+942 [texlbl="\huge{$^{64}\mathrm{Zn}$}"             pos="2550,2250!",             style=filled, fillcolor="yellow"             ]
+;
+944 [texlbl="\huge{$^{66}\mathrm{Zn}$}"             pos="2700,2250!",             style=filled, fillcolor="yellow"             ]
+;
+945 [texlbl="\huge{$^{67}\mathrm{Zn}$}"             pos="2775,2250!",             style=filled, fillcolor="yellow"             ]
+;
+946 [texlbl="\huge{$^{68}\mathrm{Zn}$}"             pos="2850,2250!",             style=filled, fillcolor="yellow"             ]
+;
+948 [texlbl="\huge{$^{70}\mathrm{Zn}$}"             pos="3000,2250!",             style=filled, fillcolor="yellow"             ]
+;
+441->400 [style="line width = 0.0480pt, solid" color = "red"]
+;
+359->399 [style="line width = 1.3959pt, solid" color = "black"]
+;
+360->400 [style="line width = 0.1965pt, solid" color = "black"]
+;
+361->401 [style="line width = 10.0000pt, solid" color = "black"]
+;
+321->359 [style="line width = 1.2721pt, solid" color = "black"]
+;
+321->282 [style="line width = 0.0226pt, solid" color = "blue"]
+;
+323->361 [style="line width = 6.0936pt, solid" color = "black"]
+;
+323->284 [style="line width = 0.5241pt, solid" color = "blue"]
+;
+399->441 [style="line width = 0.0539pt, solid" color = "black"]
+;
+400->442 [style="line width = 0.0142pt, solid" color = "black"]
+;
+401->443 [style="line width = 1.2248pt, solid" color = "black"]
+;
+150->178 [style="line width = 0.0116pt, solid" color = "black"]
+;
+122->149 [style="line width = 0.0389pt, solid" color = "black"]
+;
+123->150 [style="line width = 0.0334pt, solid" color = "black"]
+;
+97->122 [style="line width = 0.0389pt, solid" color = "black"]
+;
+245->280 [style="line width = 0.0249pt, solid" color = "black"]
+;
+246->281 [style="line width = 0.0471pt, solid" color = "black"]
+;
+247->282 [style="line width = 0.0208pt, solid" color = "black"]
+;
+284->321 [style="line width = 0.7937pt, solid" color = "black"]
+;
+212->245 [style="line width = 0.0111pt, solid" color = "black"]
+;
+213->246 [style="line width = 0.0161pt, solid" color = "black"]
+;
+399->360 [style="line width = 1.2039pt, solid" color = "red"]
+;
+149->123 [style="line width = 0.0334pt, solid" color = "red"]
+;
+245->213 [style="line width = 0.0160pt, solid" color = "red"]
+;
+280->246 [style="line width = 0.0294pt, solid" color = "red"]
+;
+281->247 [style="line width = 0.0244pt, solid" color = "red"]
+;
+}
